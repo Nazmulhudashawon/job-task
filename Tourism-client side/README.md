@@ -19,8 +19,9 @@ https://flyair.netlify.app/
 
 ## Features
 
-- User can login via Google and aslo can create account.
+- User can share their experience.
 - user can booking tour plan.
 - user also get hotel visa booking .
 - user can get any type of tour tips from the site.
+- admin dashboard
 
